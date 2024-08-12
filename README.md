@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👯 I’m looking to collaborate on various Open Source Projects<br>🌱 I’m currently learning GraphQL and PostgreSQL<br>💬 Ask me about Node.js and React.js<br>🤝 Contact me: amit.sharma1022526@gmail.com
+👯 I’m looking to collaborate on various Open Source Projects<br>🌱 I’m currently learning Jenkins and Docker<br>💬 Ask me about Next.js and React.js<br>🤝 Contact me: amit.sharma1022526@gmail.com
 
 ## 🌐 Socials:
 
